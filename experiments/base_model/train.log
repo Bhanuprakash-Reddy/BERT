@@ -1,0 +1,10 @@
+2022-01-01 15:48:32,922:INFO: device: cpu, n_gpu: 0, 16-bits training: False
+2022-01-01 15:48:32,923:INFO: Loading the datasets...
+2022-01-01 15:48:34,339:INFO: https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt not found in cache, downloading to C:\Users\PB1DC~1.BHA\AppData\Local\Temp\tmpqk4mr8oh
+2022-01-01 15:48:36,823:INFO: copying C:\Users\PB1DC~1.BHA\AppData\Local\Temp\tmpqk4mr8oh to cache at C:\Users\P.Bhanu PrakashReddy\.pytorch_pretrained_bert\26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2022-01-01 15:48:36,828:INFO: creating metadata file for C:\Users\P.Bhanu PrakashReddy\.pytorch_pretrained_bert\26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2022-01-01 15:48:36,832:INFO: removing temp file C:\Users\PB1DC~1.BHA\AppData\Local\Temp\tmpqk4mr8oh
+2022-01-01 15:48:36,833:INFO: loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at C:\Users\P.Bhanu PrakashReddy\.pytorch_pretrained_bert\26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2022-01-01 15:51:28,744:INFO: device: cpu, n_gpu: 0, 16-bits training: False
+2022-01-01 15:51:28,744:INFO: Loading the datasets...
+2022-01-01 15:51:30,518:INFO: loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at C:\Users\P.Bhanu PrakashReddy\.pytorch_pretrained_bert\26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
